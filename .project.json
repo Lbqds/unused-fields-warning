@@ -1,0 +1,27 @@
+{
+  "fullNodeVersion": "v3.2.0",
+  "compilerOptionsUsed": {
+    "ignoreUnusedConstantsWarnings": false,
+    "ignoreUnusedVariablesWarnings": false,
+    "ignoreUnusedFieldsWarnings": false,
+    "ignoreUnusedPrivateFunctionsWarnings": false,
+    "ignoreUpdateFieldsCheckWarnings": false,
+    "ignoreCheckExternalCallerWarnings": false
+  },
+  "infos": {
+    "CancelOffer": {
+      "sourceFile": "withdraw.ral",
+      "sourceCodeHash": "5164e2f44a5909cfc6d747c0d155860c1bdf72749fadf6552373f350c5d72179",
+      "bytecodeDebugPatch": "",
+      "codeHashDebug": "",
+      "warnings": []
+    },
+    "Market": {
+      "sourceFile": "withdraw.ral",
+      "sourceCodeHash": "5164e2f44a5909cfc6d747c0d155860c1bdf72749fadf6552373f350c5d72179",
+      "bytecodeDebugPatch": "",
+      "codeHashDebug": "812299dced1499b1e550a5b48cbc638dab06dd7990c3e02989248867c6379752",
+      "warnings": []
+    }
+  }
+}

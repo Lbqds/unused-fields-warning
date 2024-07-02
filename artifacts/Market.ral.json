@@ -1,0 +1,31 @@
+{
+  "version": "v3.2.0",
+  "name": "Market",
+  "bytecode": "00010e010001010103d305f6e8ae160002",
+  "codeHash": "812299dced1499b1e550a5b48cbc638dab06dd7990c3e02989248867c6379752",
+  "fieldsSig": {
+    "names": [],
+    "types": [],
+    "isMutable": []
+  },
+  "eventsSig": [],
+  "functions": [
+    {
+      "name": "cancelOffer",
+      "paramNames": [
+        "b"
+      ],
+      "paramTypes": [
+        "ByteVec"
+      ],
+      "paramIsMutable": [
+        false
+      ],
+      "returnTypes": [
+        "ByteVec"
+      ]
+    }
+  ],
+  "constants": [],
+  "enums": []
+}

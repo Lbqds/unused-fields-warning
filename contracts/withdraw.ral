@@ -1,0 +1,9 @@
+Contract Market() {
+  pub fn cancelOffer(b:ByteVec) -> ByteVec {
+    return b
+  }
+}
+
+TxScript CancelOffer(market: Market, offerId: ByteVec) {
+  let _ = market.cancelOffer(offerId)
+}

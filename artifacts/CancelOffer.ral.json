@@ -1,0 +1,28 @@
+{
+  "version": "v3.2.0",
+  "name": "CancelOffer",
+  "bytecodeTemplate": "01010300000006{1}0d0d{0}010018",
+  "fieldsSig": {
+    "names": [
+      "market",
+      "offerId"
+    ],
+    "types": [
+      "Market",
+      "ByteVec"
+    ],
+    "isMutable": [
+      false,
+      false
+    ]
+  },
+  "functions": [
+    {
+      "name": "main",
+      "paramNames": [],
+      "paramTypes": [],
+      "paramIsMutable": [],
+      "returnTypes": []
+    }
+  ]
+}
